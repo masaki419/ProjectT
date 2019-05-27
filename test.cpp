@@ -3,3 +3,4 @@
 	printf("testtest");
 }
 あいうえお
+かきくけこ
